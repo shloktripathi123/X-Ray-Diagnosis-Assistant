@@ -1,6 +1,6 @@
 # X-Ray-Diagnosis-Assistant
 
-**Live Demo:** https://replit-project--tripathiinbox.replit.app/
+**Live Demo:** https://x-ray-diagnostic-assistant.replit.app
 
 An AI-powered application designed to make X-ray image interpretation faster, smarter, and more accessible.
 
